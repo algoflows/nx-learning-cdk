@@ -5,6 +5,13 @@ __metadata:
   version: 7
   cacheKey: 9
 
+"@ago-dev/nx-aws-cdk-v2@npm:^1.3.1":
+  version: 1.3.1
+  resolution: "@ago-dev/nx-aws-cdk-v2@npm:1.3.1"
+  checksum: 2854e8ae7d697d4582b64dfc37d4a8809d11479766fa863298b23dfa497d67e410c18ca760b82b755bb5d61971463087b470295864dd706357e64191f7ef3bf8
+  languageName: node
+  linkType: hard
+
 "@ampproject/remapping@npm:^2.2.0":
   version: 2.2.0
   resolution: "@ampproject/remapping@npm:2.2.0"
@@ -3351,6 +3358,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nx-learning-cdk@workspace:."
   dependencies:
+    "@ago-dev/nx-aws-cdk-v2": "npm:^1.3.1"
     "@nrwl/nx-cloud": "npm:latest"
     "@nrwl/workspace": "npm:15.8.2"
     nx: "npm:15.8.2"
