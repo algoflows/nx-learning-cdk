@@ -1,0 +1,12 @@
+{
+  "name": "nx-learning-cdk",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@nrwl/nx-cloud": "latest",
+    "@nrwl/workspace": "15.8.2",
+    "nx": "15.8.2",
+    "prettier": "^2.6.2"
+  }
+}
